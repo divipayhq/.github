@@ -1,9 +1,12 @@
 # Weel - Spend management, streamlined
 
-## :wave: Who are we?
+## 👋 Who are we?
 We’re a team of high-performing, passionate and humble individuals. From bird-watchers to basketballers, we each bring a unique set of skills and experiences to our work. We’ve got bankers, lawyers and consultants through to designers, developers and digital marketers, united by our belief in our best-in-class product. While the Weelhouse HQ is in Sydney, we’ve got Weelers all over Australia who add to our thriving culture.
 
-## :construction: Let's talk shop!
+## 🛠️ What are we building?
+We're building the future of spend management for businesses. This means empowering staff across all industries to spend what they need to, when they need to, to get their job done while making sure that finance teams are still able to monitor and plan their spend strategically.
+
+## 🚧 Let's talk shop!
 At Weel we build our product with a variety of class-leading tech including:
 - [ReactJS](https://react.dev/)
 - [ReactNative](https://reactnative.dev/)
