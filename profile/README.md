@@ -1,5 +1,7 @@
 # Weel - Spend management, streamlined
 
+![Weel - Spend Management Streamlined, letsweel.com](https://github.com/divipayhq/.github/assets/2116020/6d597398-7751-47cf-94d4-ed93d2f591a3)
+
 ## 👋 Who are we?
 We’re a team of high-performing, passionate and humble individuals. From bird-watchers to basketballers, we each bring a unique set of skills and experiences to our work. We’ve got bankers, lawyers and consultants through to designers, developers and digital marketers, united by our belief in our best-in-class product. While the Weelhouse HQ is in Sydney, we’ve got Weelers all over Australia who add to our thriving culture.
 
